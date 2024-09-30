@@ -30,7 +30,9 @@
                         id="news-search-input"
                         class="form-control news-search-input"
                         type="text"
-                        name="search" />
+                        name="search"
+                        autocomplete="off"
+                    />
                 </div>
             </form>
 
